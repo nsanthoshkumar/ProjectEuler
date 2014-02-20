@@ -1,0 +1,15 @@
+C:\Users\Santosh\AppData\Local\Temporary Projects\PrimeAppln\bin\Debug\PrimeAppln.exe
+C:\Users\Santosh\AppData\Local\Temporary Projects\PrimeAppln\bin\Debug\PrimeAppln.pdb
+C:\Users\Santosh\AppData\Local\Temporary Projects\PrimeAppln\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santosh\AppData\Local\Temporary Projects\PrimeAppln\obj\Debug\PrimeAppln.exe
+C:\Users\Santosh\AppData\Local\Temporary Projects\PrimeAppln\obj\Debug\PrimeAppln.pdb
+C:\Users\Santosh\Documents\Visual Studio 2008\Projects\PrimeAppln\PrimeAppln\obj\Debug\PrimeAppln.exe
+C:\Users\Santosh\Documents\Visual Studio 2008\Projects\PrimeAppln\PrimeAppln\obj\Debug\PrimeAppln.pdb
+C:\Users\Santosh\Documents\Visual Studio 2008\Projects\PrimeAppln\PrimeAppln\bin\Debug\PrimeAppln.exe
+C:\Users\Santosh\Documents\Visual Studio 2008\Projects\PrimeAppln\PrimeAppln\bin\Debug\PrimeAppln.pdb
+C:\Users\Santosh\Documents\Visual Studio 2008\Projects\PrimeAppln\PrimeAppln\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santosh\Documents\GitHub\PrimeAppln\PrimeAppln\bin\Debug\PrimeAppln.exe
+C:\Users\Santosh\Documents\GitHub\PrimeAppln\PrimeAppln\bin\Debug\PrimeAppln.pdb
+C:\Users\Santosh\Documents\GitHub\PrimeAppln\PrimeAppln\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santosh\Documents\GitHub\PrimeAppln\PrimeAppln\obj\Debug\PrimeAppln.exe
+C:\Users\Santosh\Documents\GitHub\PrimeAppln\PrimeAppln\obj\Debug\PrimeAppln.pdb
